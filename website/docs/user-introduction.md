@@ -1,4 +1,4 @@
----
+6---
 id: introduction
 title: Introduction to GraphQL Config
 sidebar_label: Introduction
