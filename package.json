@@ -70,7 +70,7 @@
     "cosmiconfig": "8.0.0",
     "minimatch": "4.2.1",
     "string-env-interpolation": "1.0.1",
-    "tslib": "^2.4.0"
+    "tslib": "^2.5.0"
   },
   "devDependencies": {
     "@changesets/changelog-github": "0.4.8",
