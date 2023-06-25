@@ -10,7 +10,7 @@
     "analyze": "cross-env ANALYZE=true yarn build"
   },
   "dependencies": {
-    "@theguild/components": "4.5.10",
+    "@theguild/components": "4.6.4",
     "next": "13.3.1",
     "next-sitemap": "4.0.5",
     "react": "18.2.0",
